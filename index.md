@@ -7,3 +7,6 @@ hello hi
 ``` java
 public String hi = "hello";
 ```
+
+- [ ] Introduce
+- [ ] Say Goodbye
